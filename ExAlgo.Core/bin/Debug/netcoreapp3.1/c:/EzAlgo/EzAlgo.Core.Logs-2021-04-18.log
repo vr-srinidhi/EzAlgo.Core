@@ -1,0 +1,70 @@
+2021-04-18 12:58:20.1556|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 12:58:26.4679|INFO|ExAlgo.Core.HostService|Scheduler registered..
+2021-04-18 12:58:26.4679|INFO|ExAlgo.Core.HostService|LoadHistoricalData scheduled at ..9:13
+2021-04-18 12:58:26.4679|INFO|ExAlgo.Core.HostService|LoadCurrentData scheduled at ..9:30
+2021-04-18 12:58:26.4679|INFO|ExAlgo.Core.HostService|RegisterAndProcessTicks scheduled at ..9:15
+2021-04-18 12:58:26.4679|INFO|ExAlgo.Core.HostService|WriteConfirmation scheduled at ..15:30
+lication
+2021-04-18 12:58:26.4709|INFO|Topshelf.Hosts.ConsoleRunHost|The EzAlgoTrading.Standard service is now running, press Control+C to exit.
+2021-04-18 19:05:14.0527|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 19:05:14.0827|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-18 19:05:14.1675|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-18 19:05:14.1684|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-18 19:05:14.1856|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-18 20:56:10.4406|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 20:56:10.4951|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-18 20:56:10.7471|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-18 20:56:10.7483|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-18 20:56:10.7584|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-18 20:56:15.7215|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Historical Data loaded at  4/18/2021 8:56:15 PM
+2021-04-18 20:56:26.3058|ERROR|Topshelf.Hosts.ConsoleRunHost|An exception occurred
+2021-04-18 20:57:42.7168|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 20:57:42.7697|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-18 20:58:08.9409|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-18 20:58:08.9420|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-18 20:58:08.9778|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-18 20:58:35.2347|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 20:58:35.2749|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-18 20:59:22.7642|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-18 20:59:22.7654|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-18 20:59:22.8206|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-18 21:19:28.6239|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 21:19:28.6523|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-18 21:19:41.9350|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-18 21:19:41.9360|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-18 21:19:41.9654|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-18 21:19:46.5293|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Historical Data loaded at  4/18/2021 9:19:46 PM
+2021-04-18 21:21:12.9401|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-18 21:21:12.9715|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-18 21:21:13.0953|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-18 21:21:13.0963|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-18 21:21:13.1080|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-18 21:21:13.1486|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Historical Data loaded at  4/18/2021 9:21:13 PM

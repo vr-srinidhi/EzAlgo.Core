@@ -1,0 +1,371 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExAlgo.Core.Cache/1.0.0": {
+        "dependencies": {
+          "ExAlgo.Core.Contracts": "1.0.0",
+          "ExAlgo.Core.Zerodha": "1.0.0",
+          "NLog": "4.7.9",
+          "Skender.Stock.Indicators": "1.11.0",
+          "Tech.Zerodha.KiteConnect": "3.0.7"
+        },
+        "runtime": {
+          "ExAlgo.Core.Cache.dll": {}
+        }
+      },
+      "CsvTextFieldParser/1.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/CsvTextFieldParser.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.NETCore.Platforms/6.0.0-preview.3.21201.4": {},
+      "Microsoft.Win32.SystemEvents/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "NLog/4.7.9": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.9.12899"
+          }
+        }
+      },
+      "Skender.Stock.Indicators/1.11.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Skender.Stock.Indicators.dll": {
+            "assemblyVersion": "1.11.0.0",
+            "fileVersion": "1.11.0.0"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "6.0.0-preview.3.21201.4",
+          "System.Security.Permissions": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Drawing.Common/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Security.AccessControl/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/6.0.0-preview.3.21201.4": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Security.Permissions/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0-preview.3.21201.4",
+          "System.Windows.Extensions": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/6.0.0-preview.3.21201.4": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Text.Json/4.7.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "assemblyVersion": "4.0.1.1",
+            "fileVersion": "4.700.20.6702"
+          }
+        }
+      },
+      "System.Windows.Extensions/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "System.Drawing.Common": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "Tech.Zerodha.KiteConnect/3.0.7": {
+        "dependencies": {
+          "CsvTextFieldParser": "1.2.1",
+          "Microsoft.CSharp": "4.7.0",
+          "System.Text.Json": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/KiteConnect.dll": {
+            "assemblyVersion": "3.0.7.0",
+            "fileVersion": "3.0.7.0"
+          }
+        }
+      },
+      "ExAlgo.Core.Contracts/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Skender.Stock.Indicators": "1.11.0",
+          "Tech.Zerodha.KiteConnect": "3.0.7"
+        },
+        "runtime": {
+          "ExAlgo.Core.Contracts.dll": {}
+        }
+      },
+      "ExAlgo.Core.Zerodha/1.0.0": {
+        "dependencies": {
+          "ExAlgo.Core.Contracts": "1.0.0",
+          "System.Configuration.ConfigurationManager": "6.0.0-preview.3.21201.4",
+          "Tech.Zerodha.KiteConnect": "3.0.7"
+        },
+        "runtime": {
+          "ExAlgo.Core.Zerodha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExAlgo.Core.Cache/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvTextFieldParser/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NtCiRJyE7yo7JYvaxPlF3BQ8zxCO3/L+5VvNVQ9RlV6AZ2algKHoC5/xGVHJr1wy2+udBHtzrZOD7QWFdQ8ocA==",
+      "path": "csvtextfieldparser/1.2.1",
+      "hashPath": "csvtextfieldparser.1.2.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5hurJj7AjVBhDMETeT2NUuU85cyfi7Ej6cNOAxmbQfS8j0oMqsu45YCcCGJYjaRX5egaUJSf2GxuB7BRvY8OTg==",
+      "path": "microsoft.netcore.platforms/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.netcore.platforms.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryZRJ4rNc+3vgG+LHGwymy/y7EqIScywk575mtq5+chfXfqWZ/oPWGLCGbqqKBNqM8s0u9JdpyQVK9Ba/MJC/A==",
+      "path": "microsoft.win32.systemevents/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.win32.systemevents.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "NLog/4.7.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y0dKY5d506ZVcb8dTMp3BSb+jUGaFu/ArvRkgn4daDWKf7qqFXjEFYjqoyTrWkcNguqS6avkwICS0hsFsr4BzA==",
+      "path": "nlog/4.7.9",
+      "hashPath": "nlog.4.7.9.nupkg.sha512"
+    },
+    "Skender.Stock.Indicators/1.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RQ4xxK62YXoxcqXw0g06bP1sEuD1umyTGz0PVEsV8S1U+JASbVRGTwE9hShwA1ZLcqODGCZGpfixkzTOB3XXSw==",
+      "path": "skender.stock.indicators/1.11.0",
+      "hashPath": "skender.stock.indicators.1.11.0.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f7AlKJeJ/UsPvBJD5vS4aYiLzFOweh7HMc8f7gPAfImV5JaUJTeqfhw/O/UXB1otOT3BmabqmfHA+rNRMfgFvw==",
+      "path": "system.configuration.configurationmanager/6.0.0-preview.3.21201.4",
+      "hashPath": "system.configuration.configurationmanager.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Drawing.Common/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1AnRbkmCDlAh5LQirSlWinp3PbeHXdGhGnchENFVcurVBWwqcz6ST1R+AQy79UWPNPgvC+RCy6q+eXnPxlY9Ow==",
+      "path": "system.drawing.common/6.0.0-preview.3.21201.4",
+      "hashPath": "system.drawing.common.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Security.AccessControl/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S8Ze/z6KsGH5jqNkv9bu4n9/4DEpvR3xiqlc4ReLvydtjqv3jehrRubhgBZ4tZF5JiEzB3OamS2P6KhLej+N/g==",
+      "path": "system.security.accesscontrol/6.0.0-preview.3.21201.4",
+      "hashPath": "system.security.accesscontrol.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CXAnlLXWNWlM2oeRf9b6TlvNYZgpIA/OXNOTmJaCYVFnCW9PjxwwdBhkE4thFCpgomAUFaVkaO7dgPoYyN0Mjw==",
+      "path": "system.security.cryptography.protecteddata/6.0.0-preview.3.21201.4",
+      "hashPath": "system.security.cryptography.protecteddata.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Security.Permissions/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9IXw85ilW3fpa0RnhawzlcB1j6hlV66eKo92M67wK409uLv8hqqRhOfA4nCTgUsLJNEWnfLqZLwSupfCRfjGeA==",
+      "path": "system.security.permissions/6.0.0-preview.3.21201.4",
+      "hashPath": "system.security.permissions.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5AS4X2959qqXjizwPySQcEL8KutU6CIFyjH2kvotto44aeF57Or3sIHkEK7U5yC4KuMWALSLTo3NWA/e+KLbSA==",
+      "path": "system.security.principal.windows/6.0.0-preview.3.21201.4",
+      "hashPath": "system.security.principal.windows.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XwzMbct3iNepJaFylN1+l8weWlFburEzXidqleSsLvSXdHSIJHEKtRVKHPlpWcFmJX6k3goPFfVgUfp40RR+bg==",
+      "path": "system.text.json/4.7.1",
+      "hashPath": "system.text.json.4.7.1.nupkg.sha512"
+    },
+    "System.Windows.Extensions/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jy4ZdLbHBHCaMkmB7ModWESHvIReiUlnPt7U4INgwkGPAvoXo2OPyOypvXhhaxx7kTSM6tAHq6UxH9IgELyeIw==",
+      "path": "system.windows.extensions/6.0.0-preview.3.21201.4",
+      "hashPath": "system.windows.extensions.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Tech.Zerodha.KiteConnect/3.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/8cs/dhb/3zZECu1aYXoW31eSduEIMiMzOjLzF9ttNxpr2FtzWfYqf/Ds9tee14x3WIJtiCkdVyqmI/6hWfCTw==",
+      "path": "tech.zerodha.kiteconnect/3.0.7",
+      "hashPath": "tech.zerodha.kiteconnect.3.0.7.nupkg.sha512"
+    },
+    "ExAlgo.Core.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExAlgo.Core.Zerodha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

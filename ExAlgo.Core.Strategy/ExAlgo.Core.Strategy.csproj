@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tech.Zerodha.KiteConnect" Version="3.0.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NLog" Version="4.7.10" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExAlgo.Core.Contracts\ExAlgo.Core.Contracts.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Cache\ExAlgo.Core.Cache.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Order\ExAlgo.Core.Order.csproj" />
+  </ItemGroup>
+</Project>

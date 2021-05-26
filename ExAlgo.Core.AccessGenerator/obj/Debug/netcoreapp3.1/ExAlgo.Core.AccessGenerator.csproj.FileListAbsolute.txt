@@ -1,0 +1,16 @@
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.deps.json
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.runtimeconfig.json
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.runtimeconfig.dev.json
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/CsvTextFieldParser.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/bin/Debug/netcoreapp3.1/KiteConnect.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.csprojAssemblyReference.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.AssemblyInfoInputs.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.AssemblyInfo.cs
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.csproj.CoreCompileInputs.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.csproj.CopyComplete
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/obj/Debug/netcoreapp3.1/ExAlgo.Core.AccessGenerator.genruntimeconfig.cache

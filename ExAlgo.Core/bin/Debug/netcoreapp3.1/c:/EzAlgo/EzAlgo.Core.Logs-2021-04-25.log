@@ -1,0 +1,30 @@
+2021-04-25 21:55:55.2465|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-25 21:55:55.2761|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-25 21:55:55.6570|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-25 21:55:55.6585|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-25 21:55:55.7139|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-25 21:55:55.7468|INFO|Topshelf.Hosts.ConsoleRunHost|The EzAlgoTrading.Standard service is now running, press Control+C to exit.
+2021-04-25 21:55:55.7468|INFO|ExAlgo.Core.HostService|Scheduler registered..
+2021-04-25 21:55:55.7468|INFO|ExAlgo.Core.HostService|LoadHistoricalData scheduled at ..9:13
+2021-04-25 21:55:55.7468|INFO|ExAlgo.Core.HostService|LoadCurrentData scheduled at ..9:30
+2021-04-25 21:55:55.7468|INFO|ExAlgo.Core.HostService|RegisterAndProcessTicks scheduled at ..9:15
+2021-04-25 21:55:55.7468|INFO|ExAlgo.Core.HostService|WriteConfirmation scheduled at ..15:30
+2021-04-25 22:30:03.8525|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-04-25 22:30:03.9095|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-04-25 22:30:04.0921|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-04-25 22:30:04.0929|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-04-25 22:30:04.1021|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-04-25 22:30:04.1359|INFO|Topshelf.Hosts.ConsoleRunHost|The EzAlgoTrading.Standard service is now running, press Control+C to exit.
+2021-04-25 22:30:04.1359|INFO|ExAlgo.Core.HostService|Scheduler registered..
+2021-04-25 22:30:04.1359|INFO|ExAlgo.Core.HostService|LoadHistoricalData scheduled at ..9:13
+2021-04-25 22:30:04.1359|INFO|ExAlgo.Core.HostService|LoadCurrentData scheduled at ..9:30
+2021-04-25 22:30:04.1359|INFO|ExAlgo.Core.HostService|RegisterAndProcessTicks scheduled at ..9:15
+2021-04-25 22:30:04.1359|INFO|ExAlgo.Core.HostService|WriteConfirmation scheduled at ..15:30

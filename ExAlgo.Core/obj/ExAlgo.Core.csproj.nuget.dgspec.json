@@ -1,0 +1,594 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core/ExAlgo.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.BootStrap/ExAlgo.Core.BootStrap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.BootStrap/ExAlgo.Core.BootStrap.csproj",
+        "projectName": "ExAlgo.Core.BootStrap",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.BootStrap/ExAlgo.Core.BootStrap.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.BootStrap/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj",
+        "projectName": "ExAlgo.Core.Cache",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.9, )"
+            },
+            "Skender.Stock.Indicators": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj",
+        "projectName": "ExAlgo.Core.Contracts",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Skender.Stock.Indicators": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj",
+        "projectName": "ExAlgo.Core.Order",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj",
+        "projectName": "ExAlgo.Core.Processor",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj",
+        "projectName": "ExAlgo.Core.Strategy",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/ExAlgo.Core.Strategy.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Strategy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/ExAlgo.Core.Order.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj",
+        "projectName": "ExAlgo.Core.Zerodha",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.4, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core/ExAlgo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core/ExAlgo.Core.csproj",
+        "projectName": "ExAlgo.Core",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core/ExAlgo.Core.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.BootStrap/ExAlgo.Core.BootStrap.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.BootStrap/ExAlgo.Core.BootStrap.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/ExAlgo.Core.Cache.csproj"
+              },
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Processor/ExAlgo.Core.Processor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "FluentScheduler": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
+            "Topshelf": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Topshelf.NLog": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

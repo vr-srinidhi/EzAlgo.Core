@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {}
+  },
+  "projects": {
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj",
+        "projectName": "ExAlgo.Core.Contracts",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Skender.Stock.Indicators": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj",
+        "projectName": "ExAlgo.Core.Zerodha",
+        "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj",
+        "packagesPath": "/Users/srinidhir/.nuget/packages/",
+        "outputPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/srinidhir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj": {
+                "projectPath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Contracts/ExAlgo.Core.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.4, )"
+            },
+            "Tech.Zerodha.KiteConnect": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

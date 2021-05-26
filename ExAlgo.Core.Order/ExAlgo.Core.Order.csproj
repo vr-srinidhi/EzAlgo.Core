@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExAlgo.Core.Contracts\ExAlgo.Core.Contracts.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Zerodha\ExAlgo.Core.Zerodha.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Tech.Zerodha.KiteConnect" Version="3.0.7" />
+    <PackageReference Include="NLog" Version="4.7.9" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExAlgo.Core.Cache\ExAlgo.Core.Cache.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Contracts\ExAlgo.Core.Contracts.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Zerodha\ExAlgo.Core.Zerodha.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Processor\ExAlgo.Core.Processor.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Strategy\ExAlgo.Core.Strategy.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Order\ExAlgo.Core.Order.csproj" />
+  </ItemGroup>
+</Project>

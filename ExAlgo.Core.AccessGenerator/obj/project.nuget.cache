@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYdYAApP8m8yE1yPwW3KFwbMLV1QnIKsW2O7q+xG7Lz5yWJ2eW7Yc7CsQxdfMabs8YBNmEBmoGC4TLBeY/63Gw==",
+  "success": true,
+  "projectFilePath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.AccessGenerator/ExAlgo.Core.AccessGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/srinidhir/.nuget/packages/csvtextfieldparser/1.2.1/csvtextfieldparser.1.2.1.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/tech.zerodha.kiteconnect/3.0.7/tech.zerodha.kiteconnect.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

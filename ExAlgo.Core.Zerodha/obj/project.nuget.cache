@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7edr8WqkTkSOOlLbyGRhd2RBdJj+v1i4d7FpiiCP5zhJdOal4MM+Mo0AHi76v1/+x9J10iOcrU+bkuz1PXQyQ==",
+  "success": true,
+  "projectFilePath": "/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Zerodha/ExAlgo.Core.Zerodha.csproj",
+  "expectedPackageFiles": [
+    "/Users/srinidhir/.nuget/packages/csvtextfieldparser/1.2.1/csvtextfieldparser.1.2.1.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/microsoft.netcore.platforms/6.0.0-preview.3.21201.4/microsoft.netcore.platforms.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/microsoft.win32.systemevents/6.0.0-preview.3.21201.4/microsoft.win32.systemevents.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/skender.stock.indicators/1.11.0/skender.stock.indicators.1.11.0.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.configuration.configurationmanager/6.0.0-preview.3.21201.4/system.configuration.configurationmanager.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.drawing.common/6.0.0-preview.3.21201.4/system.drawing.common.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.security.accesscontrol/6.0.0-preview.3.21201.4/system.security.accesscontrol.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.security.cryptography.protecteddata/6.0.0-preview.3.21201.4/system.security.cryptography.protecteddata.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.security.permissions/6.0.0-preview.3.21201.4/system.security.permissions.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.security.principal.windows/6.0.0-preview.3.21201.4/system.security.principal.windows.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/system.windows.extensions/6.0.0-preview.3.21201.4/system.windows.extensions.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/srinidhir/.nuget/packages/tech.zerodha.kiteconnect/3.0.7/tech.zerodha.kiteconnect.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

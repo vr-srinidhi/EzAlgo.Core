@@ -1,0 +1,14 @@
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Order.deps.json
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Order.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Order.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Contracts.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Contracts.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.csprojAssemblyReference.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.AssemblyInfoInputs.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.AssemblyInfo.cs
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.csproj.CoreCompileInputs.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.csproj.CopyComplete
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/obj/Debug/netcoreapp3.1/ExAlgo.Core.Order.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Zerodha.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Order/bin/Debug/netcoreapp3.1/ExAlgo.Core.Zerodha.pdb

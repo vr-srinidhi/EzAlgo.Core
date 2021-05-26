@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Topshelf" Version="4.3.0" />
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="NLog" Version="4.7.10" />
+    <PackageReference Include="Topshelf.NLog" Version="4.3.0" />
+    <PackageReference Include="FluentScheduler" Version="5.5.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="nLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExAlgo.Core.Cache\ExAlgo.Core.Cache.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.BootStrap\ExAlgo.Core.BootStrap.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Processor\ExAlgo.Core.Processor.csproj" />
+  </ItemGroup>
+</Project>

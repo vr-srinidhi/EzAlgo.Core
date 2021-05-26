@@ -1,0 +1,14 @@
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.csprojAssemblyReference.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.AssemblyInfoInputs.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.AssemblyInfo.cs
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.csproj.CoreCompileInputs.cache
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Cache.deps.json
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Cache.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Cache.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Contracts.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Zerodha.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Contracts.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/bin/Debug/netcoreapp3.1/ExAlgo.Core.Zerodha.pdb
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.csproj.CopyComplete
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.dll
+/Users/srinidhir/Projects/ExAlgo.Core/ExAlgo.Core.Cache/obj/Debug/netcoreapp3.1/ExAlgo.Core.Cache.pdb

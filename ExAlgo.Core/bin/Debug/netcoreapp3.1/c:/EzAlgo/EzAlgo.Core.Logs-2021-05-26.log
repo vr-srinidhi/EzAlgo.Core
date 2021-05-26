@@ -1,0 +1,569 @@
+2021-05-26 08:53:25.3790|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-05-26 08:53:25.4064|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-05-26 08:53:25.5989|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-05-26 08:53:25.5999|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-05-26 08:53:25.6287|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-05-26 08:53:25.6972|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Historical Data loaded at  5/26/2021 8:53:25 AM
+2021-05-26 08:53:26.5184|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ADANIPORTS Pivot Details , PivoPoint: 766.51666666666666666666666667,previousPivotPoint: 764.91666666666666666666666667,IsUptrendPivot : True,  Resistance1: 773.9333333333333333333333333, Support1: 756.5833333333333333333333333,  Points Change :2.332015810276679841897233200
+2021-05-26 08:53:26.9675|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ASIANPAINT Pivot Details , PivoPoint: 2887.8333333333333333333333333,previousPivotPoint: 2826,IsUptrendPivot : True,  Resistance1: 2952.7666666666666666666666666, Support1: 2853.1166666666666666666666666,  Points Change :3.5391019395979098396953325700
+2021-05-26 08:53:27.4146|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|AXISBANK Pivot Details , PivoPoint: 734.5,previousPivotPoint: 737.66666666666666666666666667,IsUptrendPivot : False,  Resistance1: 743.0, Support1: 724.2,  Points Change :2.6382861472756079079699662500
+2021-05-26 08:53:27.8746|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJAJ-AUTO Pivot Details , PivoPoint: 4157.2166666666666666666666667,previousPivotPoint: 4149.2666666666666666666666667,IsUptrendPivot : True,  Resistance1: 4172.233333333333333333333333, Support1: 4127.433333333333333333333333,  Points Change :1.1108427915962327940111084300
+2021-05-26 08:53:28.3218|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJAJFINSV Pivot Details , PivoPoint: 11333.783333333333333333333333,previousPivotPoint: 11203.416666666666666666666667,IsUptrendPivot : True,  Resistance1: 11466.266666666666666666666666, Support1: 11265.566666666666666666666666,  Points Change :1.8185389195896904823547266800
+2021-05-26 08:53:28.7592|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJFINANCE Pivot Details , PivoPoint: 5626.9333333333333333333333333,previousPivotPoint: 5623.6666666666666666666666667,IsUptrendPivot : True,  Resistance1: 5671.866666666666666666666667, Support1: 5595.066666666666666666666667,  Points Change :1.3758509494804729487638839100
+2021-05-26 08:53:29.1957|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BHARTIARTL Pivot Details , PivoPoint: 527.33333333333333333333333333,previousPivotPoint: 528.63333333333333333333333333,IsUptrendPivot : False,  Resistance1: 530.1666666666666666666666667, Support1: 523.8666666666666666666666667,  Points Change :1.2011439466158245948522402300
+2021-05-26 08:53:29.6340|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BPCL Pivot Details , PivoPoint: 473.88333333333333333333333333,previousPivotPoint: 469.66666666666666666666666667,IsUptrendPivot : True,  Resistance1: 478.7666666666666666666666667, Support1: 468.7666666666666666666666667,  Points Change :2.1321961620469083155650319800
+2021-05-26 08:53:30.0710|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BRITANNIA Pivot Details , PivoPoint: 3424.3,previousPivotPoint: 3405.3166666666666666666666667,IsUptrendPivot : True,  Resistance1: 3463.6, Support1: 3401.7,  Points Change :1.8316100443131462333825701600
+2021-05-26 08:53:30.5148|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|CIPLA Pivot Details , PivoPoint: 935.3333333333333333333333333,previousPivotPoint: 935.0,IsUptrendPivot : True,  Resistance1: 940.6666666666666666666666666, Support1: 930.6666666666666666666666666,  Points Change :1.075268817204301075268817200
+2021-05-26 08:53:30.9602|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|COALINDIA Pivot Details , PivoPoint: 148.20,previousPivotPoint: 148.06666666666666666666666667,IsUptrendPivot : True,  Resistance1: 149.25, Support1: 146.45,  Points Change :1.9714479945615227736233854500
+2021-05-26 08:53:31.4098|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|DIVISLAB Pivot Details , PivoPoint: 4109.4833333333333333333333333,previousPivotPoint: 4111.9833333333333333333333333,IsUptrendPivot : False,  Resistance1: 4133.816666666666666666666667, Support1: 4081.466666666666666666666667,  Points Change :1.2839500128517398807848129200
+2021-05-26 08:53:31.8726|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|DRREDDY Pivot Details , PivoPoint: 5297.9833333333333333333333333,previousPivotPoint: 5262.0166666666666666666666667,IsUptrendPivot : True,  Resistance1: 5339.016666666666666666666667, Support1: 5275.966666666666666666666667,  Points Change :1.2369172216936251189343482400
+2021-05-26 08:53:32.3185|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|EICHERMOT Pivot Details , PivoPoint: 2608.35,previousPivotPoint: 2554.9833333333333333333333333,IsUptrendPivot : True,  Resistance1: 2651.70, Support1: 2582.70,  Points Change :2.6900584795321637426900584800
+2021-05-26 08:53:32.7603|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|GAIL Pivot Details , PivoPoint: 154.18333333333333333333333333,previousPivotPoint: 150.10,IsUptrendPivot : True,  Resistance1: 156.56666666666666666666666666, Support1: 152.61666666666666666666666666,  Points Change :2.6697429136453526697429136500
+2021-05-26 08:53:33.7311|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|GRASIM Pivot Details , PivoPoint: 1376.9166666666666666666666667,previousPivotPoint: 1366.8666666666666666666666667,IsUptrendPivot : True,  Resistance1: 1399.5833333333333333333333334, Support1: 1355.3333333333333333333333334,  Points Change :3.3266873430807857037365234100
+2021-05-26 08:53:34.2994|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HCLTECH Pivot Details , PivoPoint: 939.9833333333333333333333333,previousPivotPoint: 933.2333333333333333333333333,IsUptrendPivot : True,  Resistance1: 944.8166666666666666666666666, Support1: 936.1666666666666666666666666,  Points Change :0.9249852964765010960808426500
+2021-05-26 08:53:34.7441|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFC Pivot Details , PivoPoint: 2541.8333333333333333333333333,previousPivotPoint: 2535.1333333333333333333333333,IsUptrendPivot : True,  Resistance1: 2558.2166666666666666666666666, Support1: 2513.6166666666666666666666666,  Points Change :1.8585298196948682385575589500
+2021-05-26 08:53:35.2170|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFCBANK Pivot Details , PivoPoint: 1488.3333333333333333333333333,previousPivotPoint: 1508.5,IsUptrendPivot : False,  Resistance1: 1505.7166666666666666666666666, Support1: 1463.6166666666666666666666666,  Points Change :2.9411764705882352941176470600
+2021-05-26 08:53:35.6525|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFCLIFE Pivot Details , PivoPoint: 664.05,previousPivotPoint: 670.30,IsUptrendPivot : False,  Resistance1: 671.00, Support1: 654.10,  Points Change :2.5719068634910972454725308200
+2021-05-26 08:53:36.1066|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HEROMOTOCO Pivot Details , PivoPoint: 2928.0166666666666666666666667,previousPivotPoint: 2920.5833333333333333333333333,IsUptrendPivot : True,  Resistance1: 2946.9833333333333333333333334, Support1: 2912.0333333333333333333333334,  Points Change :1.2880924537387356400908027800
+2021-05-26 08:53:36.5432|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HINDALCO Pivot Details , PivoPoint: 393.21666666666666666666666667,previousPivotPoint: 387.63333333333333333333333333,IsUptrendPivot : True,  Resistance1: 396.88333333333333333333333334, Support1: 386.93333333333333333333333334,  Points Change :2.5542292388653574637402130700
+2021-05-26 08:53:37.0648|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HINDUNILVR Pivot Details , PivoPoint: 2350.9333333333333333333333333,previousPivotPoint: 2341.7166666666666666666666667,IsUptrendPivot : True,  Resistance1: 2363.8666666666666666666666666, Support1: 2332.0666666666666666666666666,  Points Change :1.3601368691189050470487596200
+2021-05-26 08:53:37.5231|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ICICIBANK Pivot Details , PivoPoint: 647.91666666666666666666666667,previousPivotPoint: 645.46666666666666666666666667,IsUptrendPivot : True,  Resistance1: 653.3333333333333333333333333, Support1: 643.8333333333333333333333333,  Points Change :1.4785992217898832684824902700
+2021-05-26 08:53:37.9915|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|INDUSINDBK Pivot Details , PivoPoint: 997.1666666666666666666666667,previousPivotPoint: 1007.3166666666666666666666667,IsUptrendPivot : False,  Resistance1: 1011.5833333333333333333333334, Support1: 981.5833333333333333333333334,  Points Change :3.0893729641693811074918566800
+2021-05-26 08:53:38.4667|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|INFY Pivot Details , PivoPoint: 1362.2166666666666666666666667,previousPivotPoint: 1352.3166666666666666666666667,IsUptrendPivot : True,  Resistance1: 1369.7833333333333333333333334, Support1: 1356.4333333333333333333333334,  Points Change :1.0004060688840488759274982500
+2021-05-26 08:53:38.8926|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|IOC Pivot Details , PivoPoint: 110.56666666666666666666666667,previousPivotPoint: 108.1,IsUptrendPivot : True,  Resistance1: 111.53333333333333333333333334, Support1: 109.23333333333333333333333334,  Points Change :2.098540145985401459854014600
+2021-05-26 08:53:39.3406|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ITC Pivot Details , PivoPoint: 211.56666666666666666666666667,previousPivotPoint: 210.41666666666666666666666667,IsUptrendPivot : True,  Resistance1: 212.83333333333333333333333334, Support1: 209.73333333333333333333333334,  Points Change :1.4982164090368608799048751500
+2021-05-26 08:53:39.8066|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|JSWSTEEL Pivot Details , PivoPoint: 701.58333333333333333333333333,previousPivotPoint: 683.93333333333333333333333333,IsUptrendPivot : True,  Resistance1: 714.8666666666666666666666667, Support1: 688.7166666666666666666666667,  Points Change :3.84419736937722549233340600
+2021-05-26 08:53:40.7423|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|KOTAKBANK Pivot Details , PivoPoint: 1755.1666666666666666666666667,previousPivotPoint: 1756.7,IsUptrendPivot : False,  Resistance1: 1772.3333333333333333333333334, Support1: 1737.8333333333333333333333334,  Points Change :2.0655926352128883774453394700
+2021-05-26 08:53:41.1944|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|LT Pivot Details , PivoPoint: 1451.5666666666666666666666667,previousPivotPoint: 1437,IsUptrendPivot : True,  Resistance1: 1461.0333333333333333333333334, Support1: 1443.1333333333333333333333334,  Points Change :1.3764648776090423687677692300
+2021-05-26 08:53:41.6439|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|M&M Pivot Details , PivoPoint: 815.95,previousPivotPoint: 814.2833333333333333333333333,IsUptrendPivot : True,  Resistance1: 823.20, Support1: 803.90,  Points Change :2.4308777138615698645388754900
+2021-05-26 08:53:42.0935|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|MARUTI Pivot Details , PivoPoint: 6915.35,previousPivotPoint: 6882,IsUptrendPivot : True,  Resistance1: 6942.65, Support1: 6882.70,  Points Change :0.8710801393728222996515679400
+2021-05-26 08:53:42.5384|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|NESTLEIND Pivot Details , PivoPoint: 17558.616666666666666666666667,previousPivotPoint: 17436.266666666666666666666667,IsUptrendPivot : True,  Resistance1: 17695.183333333333333333333334, Support1: 17358.433333333333333333333334,  Points Change :1.9328953825755292861632241900
+2021-05-26 08:53:42.9661|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|NTPC Pivot Details , PivoPoint: 113.71666666666666666666666667,previousPivotPoint: 112.88333333333333333333333333,IsUptrendPivot : True,  Resistance1: 114.33333333333333333333333334, Support1: 112.58333333333333333333333334,  Points Change :1.5922158337019018133569217200
+2021-05-26 08:53:43.4355|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ONGC Pivot Details , PivoPoint: 115.15,previousPivotPoint: 112.60,IsUptrendPivot : True,  Resistance1: 116.55, Support1: 113.20,  Points Change :2.9903254177660510114335971900
+2021-05-26 08:53:43.8834|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|POWERGRID Pivot Details , PivoPoint: 233.05,previousPivotPoint: 231.31666666666666666666666667,IsUptrendPivot : True,  Resistance1: 234.50, Support1: 231.65,  Points Change :1.427644386761842959117456200
+2021-05-26 08:53:44.3365|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|RELIANCE Pivot Details , PivoPoint: 1973.6666666666666666666666667,previousPivotPoint: 1992.1333333333333333333333333,IsUptrendPivot : False,  Resistance1: 1987.3333333333333333333333334, Support1: 1950.3333333333333333333333334,  Points Change :1.8877551020408163265306122400
+2021-05-26 08:53:44.7970|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SBILIFE Pivot Details , PivoPoint: 967.4166666666666666666666667,previousPivotPoint: 964.8666666666666666666666667,IsUptrendPivot : True,  Resistance1: 971.5833333333333333333333334, Support1: 962.2333333333333333333333334,  Points Change :0.981155583242485594144214300
+2021-05-26 08:53:45.2585|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SBIN Pivot Details , PivoPoint: 412.55,previousPivotPoint: 411.73333333333333333333333333,IsUptrendPivot : True,  Resistance1: 416.60, Support1: 409.90,  Points Change :1.7135862913096695226438188500
+2021-05-26 08:53:45.7371|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Pivot Details , PivoPoint: 27052.70,previousPivotPoint: 27097.333333333333333333333333,IsUptrendPivot : False,  Resistance1: 27205.40, Support1: 26802.85,  Points Change :1.6163568773234200743494423800
+2021-05-26 08:53:46.2292|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SUNPHARMA Pivot Details , PivoPoint: 694.75,previousPivotPoint: 693.38333333333333333333333333,IsUptrendPivot : True,  Resistance1: 698.50, Support1: 692.25,  Points Change :0.9261939218523878437047756900
+2021-05-26 08:53:46.6711|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TATAMOTORS Pivot Details , PivoPoint: 316.00,previousPivotPoint: 312.56666666666666666666666667,IsUptrendPivot : True,  Resistance1: 318.15, Support1: 313.00,  Points Change :1.6409112633423610004779353200
+2021-05-26 08:53:47.1125|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TATASTEEL Pivot Details , PivoPoint: 1110.3833333333333333333333333,previousPivotPoint: 1093.7833333333333333333333333,IsUptrendPivot : True,  Resistance1: 1120.7666666666666666666666666, Support1: 1094.9666666666666666666666666,  Points Change :2.3590909090909090909090909100
+2021-05-26 08:53:47.5661|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TCS Pivot Details , PivoPoint: 3108.6333333333333333333333333,previousPivotPoint: 3087.4833333333333333333333333,IsUptrendPivot : True,  Resistance1: 3134.6166666666666666666666666, Support1: 3089.0166666666666666666666666,  Points Change :1.497355699036371305278868300
+2021-05-26 08:53:48.0138|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TECHM Pivot Details , PivoPoint: 993.2833333333333333333333333,previousPivotPoint: 984.2333333333333333333333333,IsUptrendPivot : True,  Resistance1: 1002.2666666666666666666666666, Support1: 985.0166666666666666666666666,  Points Change :1.81947550315104696076438300
+2021-05-26 08:53:48.4755|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TITAN Pivot Details , PivoPoint: 1560.25,previousPivotPoint: 1520.8166666666666666666666667,IsUptrendPivot : True,  Resistance1: 1585.50, Support1: 1545.90,  Points Change :2.5993485342019543973941368100
+2021-05-26 08:53:48.9600|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ULTRACEMCO Pivot Details , PivoPoint: 6577.4833333333333333333333333,previousPivotPoint: 6586.9833333333333333333333333,IsUptrendPivot : False,  Resistance1: 6624.866666666666666666666667, Support1: 6517.616666666666666666666667,  Points Change :1.6875536217673734526289986500
+2021-05-26 08:53:49.4136|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|UPL Pivot Details , PivoPoint: 797.3833333333333333333333333,previousPivotPoint: 786.16666666666666666666666667,IsUptrendPivot : True,  Resistance1: 805.1166666666666666666666666, Support1: 788.7666666666666666666666666,  Points Change :2.0899303356554781507283090600
+2021-05-26 08:53:49.8708|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|WIPRO Pivot Details , PivoPoint: 519.45,previousPivotPoint: 514.45,IsUptrendPivot : True,  Resistance1: 523.15, Support1: 514.05,  Points Change :1.7742873763816172193135543900
+2021-05-26 08:53:51.9313|INFO|ExAlgo.Core.HostService|Scheduler registered..
+2021-05-26 08:53:51.9313|INFO|ExAlgo.Core.HostService|LoadHistoricalData scheduled at ..9:13
+2021-05-26 08:53:51.9313|INFO|ExAlgo.Core.HostService|LoadCurrentData scheduled at ..9:30
+2021-05-26 08:53:51.9313|INFO|ExAlgo.Core.HostService|RegisterAndProcessTicks scheduled at ..9:15
+2021-05-26 08:53:51.9313|INFO|ExAlgo.Core.HostService|WriteConfirmation scheduled at ..15:30
+2021-05-26 08:53:51.9313|INFO|Topshelf.Hosts.ConsoleRunHost|The EzAlgoTrading.Standard service is now running, press Control+C to exit.
+2021-05-26 08:54:43.3506|INFO|Topshelf.HostFactory|Configuration Result:
+[Success] Name EzAlgoTrading.Standard
+[Success] DisplayName EzAlgoTrading.Standard 1.0.0.0
+[Success] Description Datafactory to process rail reference data
+[Success] ServiceName EzAlgoTrading.Standard
+2021-05-26 08:54:43.4052|INFO|Topshelf.HostConfigurators.HostConfiguratorImpl|Topshelf v4.3.0.0, .NET Core 3.1.13 (3.1.13)
+2021-05-26 08:54:43.5536|ERROR|Topshelf.Runtime.Windows.WindowsHostEnvironment|Unable to get parent process (ignored)
+2021-05-26 08:54:43.5547|DEBUG|Topshelf.Builders.RunBuilder|Running as a console application, creating the console host.
+2021-05-26 08:54:43.5648|DEBUG|Topshelf.Hosts.ConsoleRunHost|Starting up as a console application
+2021-05-26 08:54:43.6016|INFO|Topshelf.Hosts.ConsoleRunHost|The EzAlgoTrading.Standard service is now running, press Control+C to exit.
+2021-05-26 08:54:43.6016|INFO|ExAlgo.Core.HostService|Scheduler registered..
+2021-05-26 08:54:43.6016|INFO|ExAlgo.Core.HostService|LoadHistoricalData scheduled at ..9:13
+2021-05-26 08:54:43.6016|INFO|ExAlgo.Core.HostService|LoadCurrentData scheduled at ..9:30
+2021-05-26 08:54:43.6016|INFO|ExAlgo.Core.HostService|RegisterAndProcessTicks scheduled at ..9:15
+2021-05-26 08:54:43.6016|INFO|ExAlgo.Core.HostService|WriteConfirmation scheduled at ..15:30
+2021-05-26 09:05:00.0444|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Historical Data loaded at  5/26/2021 9:05:00 AM
+2021-05-26 09:05:01.0237|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ADANIPORTS Pivot Details , PivoPoint: 766.51666666666666666666666667,previousPivotPoint: 764.91666666666666666666666667,IsUptrendPivot : True,  Resistance1: 773.9333333333333333333333333, Support1: 756.5833333333333333333333333,  Points Change :2.332015810276679841897233200
+2021-05-26 09:05:01.4867|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ASIANPAINT Pivot Details , PivoPoint: 2887.8333333333333333333333333,previousPivotPoint: 2826,IsUptrendPivot : True,  Resistance1: 2952.7666666666666666666666666, Support1: 2853.1166666666666666666666666,  Points Change :3.5391019395979098396953325700
+2021-05-26 09:05:01.9529|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|AXISBANK Pivot Details , PivoPoint: 734.5,previousPivotPoint: 737.66666666666666666666666667,IsUptrendPivot : False,  Resistance1: 743.0, Support1: 724.2,  Points Change :2.6382861472756079079699662500
+2021-05-26 09:05:02.4186|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJAJ-AUTO Pivot Details , PivoPoint: 4157.2166666666666666666666667,previousPivotPoint: 4149.2666666666666666666666667,IsUptrendPivot : True,  Resistance1: 4172.233333333333333333333333, Support1: 4127.433333333333333333333333,  Points Change :1.1108427915962327940111084300
+2021-05-26 09:05:02.8637|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJAJFINSV Pivot Details , PivoPoint: 11333.783333333333333333333333,previousPivotPoint: 11203.416666666666666666666667,IsUptrendPivot : True,  Resistance1: 11466.266666666666666666666666, Support1: 11265.566666666666666666666666,  Points Change :1.8185389195896904823547266800
+2021-05-26 09:05:03.3140|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJFINANCE Pivot Details , PivoPoint: 5626.9333333333333333333333333,previousPivotPoint: 5623.6666666666666666666666667,IsUptrendPivot : True,  Resistance1: 5671.866666666666666666666667, Support1: 5595.066666666666666666666667,  Points Change :1.3758509494804729487638839100
+2021-05-26 09:05:03.7556|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BHARTIARTL Pivot Details , PivoPoint: 527.33333333333333333333333333,previousPivotPoint: 528.63333333333333333333333333,IsUptrendPivot : False,  Resistance1: 530.1666666666666666666666667, Support1: 523.8666666666666666666666667,  Points Change :1.2011439466158245948522402300
+2021-05-26 09:05:04.1869|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BPCL Pivot Details , PivoPoint: 473.88333333333333333333333333,previousPivotPoint: 469.66666666666666666666666667,IsUptrendPivot : True,  Resistance1: 478.7666666666666666666666667, Support1: 468.7666666666666666666666667,  Points Change :2.1321961620469083155650319800
+2021-05-26 09:05:04.6205|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BRITANNIA Pivot Details , PivoPoint: 3424.3,previousPivotPoint: 3405.3166666666666666666666667,IsUptrendPivot : True,  Resistance1: 3463.6, Support1: 3401.7,  Points Change :1.8316100443131462333825701600
+2021-05-26 09:05:05.0610|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|CIPLA Pivot Details , PivoPoint: 935.3333333333333333333333333,previousPivotPoint: 935.0,IsUptrendPivot : True,  Resistance1: 940.6666666666666666666666666, Support1: 930.6666666666666666666666666,  Points Change :1.075268817204301075268817200
+2021-05-26 09:05:05.5099|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|COALINDIA Pivot Details , PivoPoint: 148.20,previousPivotPoint: 148.06666666666666666666666667,IsUptrendPivot : True,  Resistance1: 149.25, Support1: 146.45,  Points Change :1.9714479945615227736233854500
+2021-05-26 09:05:05.9494|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|DIVISLAB Pivot Details , PivoPoint: 4109.4833333333333333333333333,previousPivotPoint: 4111.9833333333333333333333333,IsUptrendPivot : False,  Resistance1: 4133.816666666666666666666667, Support1: 4081.466666666666666666666667,  Points Change :1.2839500128517398807848129200
+2021-05-26 09:05:06.3999|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|DRREDDY Pivot Details , PivoPoint: 5297.9833333333333333333333333,previousPivotPoint: 5262.0166666666666666666666667,IsUptrendPivot : True,  Resistance1: 5339.016666666666666666666667, Support1: 5275.966666666666666666666667,  Points Change :1.2369172216936251189343482400
+2021-05-26 09:05:06.8445|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|EICHERMOT Pivot Details , PivoPoint: 2608.35,previousPivotPoint: 2554.9833333333333333333333333,IsUptrendPivot : True,  Resistance1: 2651.70, Support1: 2582.70,  Points Change :2.6900584795321637426900584800
+2021-05-26 09:05:07.3006|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|GAIL Pivot Details , PivoPoint: 154.18333333333333333333333333,previousPivotPoint: 150.10,IsUptrendPivot : True,  Resistance1: 156.56666666666666666666666666, Support1: 152.61666666666666666666666666,  Points Change :2.6697429136453526697429136500
+2021-05-26 09:05:07.7539|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|GRASIM Pivot Details , PivoPoint: 1376.9166666666666666666666667,previousPivotPoint: 1366.8666666666666666666666667,IsUptrendPivot : True,  Resistance1: 1399.5833333333333333333333334, Support1: 1355.3333333333333333333333334,  Points Change :3.3266873430807857037365234100
+2021-05-26 09:05:08.2029|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HCLTECH Pivot Details , PivoPoint: 939.9833333333333333333333333,previousPivotPoint: 933.2333333333333333333333333,IsUptrendPivot : True,  Resistance1: 944.8166666666666666666666666, Support1: 936.1666666666666666666666666,  Points Change :0.9249852964765010960808426500
+2021-05-26 09:05:08.6584|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFC Pivot Details , PivoPoint: 2541.8333333333333333333333333,previousPivotPoint: 2535.1333333333333333333333333,IsUptrendPivot : True,  Resistance1: 2558.2166666666666666666666666, Support1: 2513.6166666666666666666666666,  Points Change :1.8585298196948682385575589500
+2021-05-26 09:05:09.1133|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFCBANK Pivot Details , PivoPoint: 1488.3333333333333333333333333,previousPivotPoint: 1508.5,IsUptrendPivot : False,  Resistance1: 1505.7166666666666666666666666, Support1: 1463.6166666666666666666666666,  Points Change :2.9411764705882352941176470600
+2021-05-26 09:05:09.5589|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFCLIFE Pivot Details , PivoPoint: 664.05,previousPivotPoint: 670.30,IsUptrendPivot : False,  Resistance1: 671.00, Support1: 654.10,  Points Change :2.5719068634910972454725308200
+2021-05-26 09:05:10.0056|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HEROMOTOCO Pivot Details , PivoPoint: 2928.0166666666666666666666667,previousPivotPoint: 2920.5833333333333333333333333,IsUptrendPivot : True,  Resistance1: 2946.9833333333333333333333334, Support1: 2912.0333333333333333333333334,  Points Change :1.2880924537387356400908027800
+2021-05-26 09:05:10.4564|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HINDALCO Pivot Details , PivoPoint: 393.21666666666666666666666667,previousPivotPoint: 387.63333333333333333333333333,IsUptrendPivot : True,  Resistance1: 396.88333333333333333333333334, Support1: 386.93333333333333333333333334,  Points Change :2.5542292388653574637402130700
+2021-05-26 09:05:10.9013|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HINDUNILVR Pivot Details , PivoPoint: 2350.9333333333333333333333333,previousPivotPoint: 2341.7166666666666666666666667,IsUptrendPivot : True,  Resistance1: 2363.8666666666666666666666666, Support1: 2332.0666666666666666666666666,  Points Change :1.3601368691189050470487596200
+2021-05-26 09:05:11.3530|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ICICIBANK Pivot Details , PivoPoint: 647.91666666666666666666666667,previousPivotPoint: 645.46666666666666666666666667,IsUptrendPivot : True,  Resistance1: 653.3333333333333333333333333, Support1: 643.8333333333333333333333333,  Points Change :1.4785992217898832684824902700
+2021-05-26 09:05:11.8004|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|INDUSINDBK Pivot Details , PivoPoint: 997.1666666666666666666666667,previousPivotPoint: 1007.3166666666666666666666667,IsUptrendPivot : False,  Resistance1: 1011.5833333333333333333333334, Support1: 981.5833333333333333333333334,  Points Change :3.0893729641693811074918566800
+2021-05-26 09:05:12.6426|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|INFY Pivot Details , PivoPoint: 1362.2166666666666666666666667,previousPivotPoint: 1352.3166666666666666666666667,IsUptrendPivot : True,  Resistance1: 1369.7833333333333333333333334, Support1: 1356.4333333333333333333333334,  Points Change :1.0004060688840488759274982500
+2021-05-26 09:05:13.1118|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|IOC Pivot Details , PivoPoint: 110.56666666666666666666666667,previousPivotPoint: 108.1,IsUptrendPivot : True,  Resistance1: 111.53333333333333333333333334, Support1: 109.23333333333333333333333334,  Points Change :2.098540145985401459854014600
+2021-05-26 09:05:13.5586|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ITC Pivot Details , PivoPoint: 211.56666666666666666666666667,previousPivotPoint: 210.41666666666666666666666667,IsUptrendPivot : True,  Resistance1: 212.83333333333333333333333334, Support1: 209.73333333333333333333333334,  Points Change :1.4982164090368608799048751500
+2021-05-26 09:05:14.0041|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|JSWSTEEL Pivot Details , PivoPoint: 701.58333333333333333333333333,previousPivotPoint: 683.93333333333333333333333333,IsUptrendPivot : True,  Resistance1: 714.8666666666666666666666667, Support1: 688.7166666666666666666666667,  Points Change :3.84419736937722549233340600
+2021-05-26 09:05:14.4521|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|KOTAKBANK Pivot Details , PivoPoint: 1755.1666666666666666666666667,previousPivotPoint: 1756.7,IsUptrendPivot : False,  Resistance1: 1772.3333333333333333333333334, Support1: 1737.8333333333333333333333334,  Points Change :2.0655926352128883774453394700
+2021-05-26 09:05:14.9006|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|LT Pivot Details , PivoPoint: 1451.5666666666666666666666667,previousPivotPoint: 1437,IsUptrendPivot : True,  Resistance1: 1461.0333333333333333333333334, Support1: 1443.1333333333333333333333334,  Points Change :1.3764648776090423687677692300
+2021-05-26 09:05:15.3580|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|M&M Pivot Details , PivoPoint: 815.95,previousPivotPoint: 814.2833333333333333333333333,IsUptrendPivot : True,  Resistance1: 823.20, Support1: 803.90,  Points Change :2.4308777138615698645388754900
+2021-05-26 09:05:15.8013|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|MARUTI Pivot Details , PivoPoint: 6915.35,previousPivotPoint: 6882,IsUptrendPivot : True,  Resistance1: 6942.65, Support1: 6882.70,  Points Change :0.8710801393728222996515679400
+2021-05-26 09:05:16.2477|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|NESTLEIND Pivot Details , PivoPoint: 17558.616666666666666666666667,previousPivotPoint: 17436.266666666666666666666667,IsUptrendPivot : True,  Resistance1: 17695.183333333333333333333334, Support1: 17358.433333333333333333333334,  Points Change :1.9328953825755292861632241900
+2021-05-26 09:05:16.6910|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|NTPC Pivot Details , PivoPoint: 113.71666666666666666666666667,previousPivotPoint: 112.88333333333333333333333333,IsUptrendPivot : True,  Resistance1: 114.33333333333333333333333334, Support1: 112.58333333333333333333333334,  Points Change :1.5922158337019018133569217200
+2021-05-26 09:05:17.1389|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ONGC Pivot Details , PivoPoint: 115.15,previousPivotPoint: 112.60,IsUptrendPivot : True,  Resistance1: 116.55, Support1: 113.20,  Points Change :2.9903254177660510114335971900
+2021-05-26 09:05:17.6028|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|POWERGRID Pivot Details , PivoPoint: 233.05,previousPivotPoint: 231.31666666666666666666666667,IsUptrendPivot : True,  Resistance1: 234.50, Support1: 231.65,  Points Change :1.427644386761842959117456200
+2021-05-26 09:05:18.0495|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|RELIANCE Pivot Details , PivoPoint: 1973.6666666666666666666666667,previousPivotPoint: 1992.1333333333333333333333333,IsUptrendPivot : False,  Resistance1: 1987.3333333333333333333333334, Support1: 1950.3333333333333333333333334,  Points Change :1.8877551020408163265306122400
+2021-05-26 09:05:18.5247|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SBILIFE Pivot Details , PivoPoint: 967.4166666666666666666666667,previousPivotPoint: 964.8666666666666666666666667,IsUptrendPivot : True,  Resistance1: 971.5833333333333333333333334, Support1: 962.2333333333333333333333334,  Points Change :0.981155583242485594144214300
+2021-05-26 09:05:18.9660|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SBIN Pivot Details , PivoPoint: 412.55,previousPivotPoint: 411.73333333333333333333333333,IsUptrendPivot : True,  Resistance1: 416.60, Support1: 409.90,  Points Change :1.7135862913096695226438188500
+2021-05-26 09:05:19.4794|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Pivot Details , PivoPoint: 27052.70,previousPivotPoint: 27097.333333333333333333333333,IsUptrendPivot : False,  Resistance1: 27205.40, Support1: 26802.85,  Points Change :1.6163568773234200743494423800
+2021-05-26 09:05:20.2307|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SUNPHARMA Pivot Details , PivoPoint: 694.75,previousPivotPoint: 693.38333333333333333333333333,IsUptrendPivot : True,  Resistance1: 698.50, Support1: 692.25,  Points Change :0.9261939218523878437047756900
+2021-05-26 09:05:21.0901|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TATAMOTORS Pivot Details , PivoPoint: 316.00,previousPivotPoint: 312.56666666666666666666666667,IsUptrendPivot : True,  Resistance1: 318.15, Support1: 313.00,  Points Change :1.6409112633423610004779353200
+2021-05-26 09:05:21.9440|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TATASTEEL Pivot Details , PivoPoint: 1110.3833333333333333333333333,previousPivotPoint: 1093.7833333333333333333333333,IsUptrendPivot : True,  Resistance1: 1120.7666666666666666666666666, Support1: 1094.9666666666666666666666666,  Points Change :2.3590909090909090909090909100
+2021-05-26 09:05:22.6607|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TCS Pivot Details , PivoPoint: 3108.6333333333333333333333333,previousPivotPoint: 3087.4833333333333333333333333,IsUptrendPivot : True,  Resistance1: 3134.6166666666666666666666666, Support1: 3089.0166666666666666666666666,  Points Change :1.497355699036371305278868300
+2021-05-26 09:05:23.2504|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TECHM Pivot Details , PivoPoint: 993.2833333333333333333333333,previousPivotPoint: 984.2333333333333333333333333,IsUptrendPivot : True,  Resistance1: 1002.2666666666666666666666666, Support1: 985.0166666666666666666666666,  Points Change :1.81947550315104696076438300
+2021-05-26 09:05:23.7580|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TITAN Pivot Details , PivoPoint: 1560.25,previousPivotPoint: 1520.8166666666666666666666667,IsUptrendPivot : True,  Resistance1: 1585.50, Support1: 1545.90,  Points Change :2.5993485342019543973941368100
+2021-05-26 09:05:24.2071|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ULTRACEMCO Pivot Details , PivoPoint: 6577.4833333333333333333333333,previousPivotPoint: 6586.9833333333333333333333333,IsUptrendPivot : False,  Resistance1: 6624.866666666666666666666667, Support1: 6517.616666666666666666666667,  Points Change :1.6875536217673734526289986500
+2021-05-26 09:05:24.6479|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|UPL Pivot Details , PivoPoint: 797.3833333333333333333333333,previousPivotPoint: 786.16666666666666666666666667,IsUptrendPivot : True,  Resistance1: 805.1166666666666666666666666, Support1: 788.7666666666666666666666666,  Points Change :2.0899303356554781507283090600
+2021-05-26 09:05:25.1108|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|WIPRO Pivot Details , PivoPoint: 519.45,previousPivotPoint: 514.45,IsUptrendPivot : True,  Resistance1: 523.15, Support1: 514.05,  Points Change :1.7742873763816172193135543900
+2021-05-26 09:15:00.6669|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 09:15:00.6669|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 09:15:00.6669|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forONGC
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 09:15:00.6684|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSHREECEM
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 09:15:00.6689|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 09:15:00.6698|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 09:15:01.2806|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 09:15:01.2808|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 09:15:01.2808|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forONGC
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 09:30:00.0761|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 09:30:00.0994|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSHREECEM
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 09:30:00.1029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 09:30:00.6744|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 09:30:00.6744|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 09:30:00.6744|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 09:30:00.6744|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 09:30:00.6744|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 09:30:02.4609|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 09:30:03.1301|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 9:30:03 AM
+2021-05-26 09:30:03.2259|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 9:30:03 AM
+2021-05-26 09:41:40.6282|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"GAIL","BuyPrice":153.85,"Target":154.10000000000002,"StopLoss":152.3,"OrderTime":"2021-05-26T09:41:40.468444+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T09:41:40.459603+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":1207553,"OrderType":"Long","Qty":3249,"ConnorsRsi":9.208774698437761280817990307,"Ema200":150.93408021269227138702932033,"NetProfit":-250.0,"OrderStrategy":"ConnorsRsiAndEma200","RevicedStopLoss":{},"PullDownTime":"2021-05-26T09:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 09:45:00.4115|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 09:45:00.4139|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 09:45:00.4160|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 09:45:00.4181|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 09:45:00.4200|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSHREECEM
+2021-05-26 09:45:00.4218|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 09:45:00.4236|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 09:45:00.4254|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 09:45:00.4272|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 09:45:00.4290|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 09:45:00.4309|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 09:45:00.4330|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 09:45:00.4347|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 09:45:00.4364|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 09:45:00.4380|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 09:45:00.4397|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 09:45:00.4413|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 09:45:00.4429|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 09:45:00.4444|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 09:45:00.4460|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 09:45:00.4477|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 09:45:00.4494|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 09:45:00.4515|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 09:45:00.4530|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 09:45:00.4546|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 09:45:00.4562|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 09:45:00.4580|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 09:45:00.4595|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 09:45:00.7997|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 09:45:00.8041|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 09:45:00.8062|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 09:45:00.8086|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 09:45:00.8106|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 09:45:00.8126|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 09:45:00.8145|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 09:45:00.8166|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 09:45:00.8205|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 09:45:00.8225|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 09:45:00.8264|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 09:45:00.8284|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forONGC
+2021-05-26 09:45:00.8305|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 09:45:00.8346|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 09:45:00.8366|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 09:45:00.8405|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 09:45:00.8442|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 09:45:00.8496|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 09:45:00.8593|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 09:45:01.2859|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 09:45:01.3264|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 09:45:01.3338|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 09:45:03.0212|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 9:45:03 AM
+2021-05-26 09:45:03.1099|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 9:45:03 AM
+2021-05-26 09:46:25.3061|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for GAIL - {"BrokerageAndTxn":250.0,"Instrument":"GAIL","BuyPrice":153.85,"Target":154.10000000000002,"StopLoss":152.3,"OrderTime":"2021-05-26T09:41:40.468444+05:30","SellTime":"2021-05-26T09:46:25.304705+05:30","ExchangeTime":"2021-05-26T09:41:40.459603+05:30","Result":"Profit","GrossProfit":812.2500000001164,"InstrumentToken":1207553,"OrderType":"Long","Qty":3249,"ConnorsRsi":9.208774698437761280817990307,"Ema200":150.93408021269227138702932033,"NetProfit":562.2500000001164,"OrderStrategy":"ConnorsRsiAndEma200","RevicedStopLoss":{},"PullDownTime":"2021-05-26T09:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:00:00.0944|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 10:00:00.1211|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 10:00:00.1240|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 10:00:00.1270|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 10:00:00.1292|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 10:00:00.1314|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 10:00:00.1335|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 10:00:00.1357|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 10:00:00.1379|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 10:00:00.1400|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 10:00:00.1420|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 10:00:00.1441|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 10:00:00.1462|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 10:00:00.1483|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 10:00:00.1503|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 10:00:00.1524|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 10:00:00.1545|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 10:00:00.1566|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 10:00:00.1586|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 10:00:00.1606|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 10:00:00.1626|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 10:00:00.1645|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 10:00:00.1664|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 10:00:00.1683|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 10:00:00.1705|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 10:00:00.1723|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 10:00:00.7209|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 10:00:00.7255|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 10:00:00.7277|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 10:00:00.7299|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 10:00:00.7320|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 10:00:00.7341|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 10:00:00.7404|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 10:00:00.7425|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 10:00:00.7446|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 10:00:00.7528|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 10:00:00.7594|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 10:00:00.7623|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"HCLTECH","BuyPrice":939.0,"Target":940.9000000000001,"StopLoss":929.6,"OrderTime":"2021-05-26T10:00:00.761621+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:00:00.75948+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":1850625,"OrderType":"Long","Qty":532,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:00:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:00:00.7623|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 10:00:00.7663|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 10:00:00.7738|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 10:00:00.7760|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"SBIN","BuyPrice":415.3,"Target":416.15000000000003,"StopLoss":411.15000000000003,"OrderTime":"2021-05-26T10:00:00.775691+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:00:00.773843+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":779521,"OrderType":"Long","Qty":1203,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:00:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:00:00.7760|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 10:00:00.7833|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 10:00:00.7867|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 10:00:00.7899|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 10:00:01.3123|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 10:00:01.3245|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 10:00:01.3380|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forONGC
+2021-05-26 10:00:01.3398|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 10:00:02.5086|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 10:00:03.0268|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 10:00:03 AM
+2021-05-26 10:00:03.0957|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Open 26978, Close 0
+2021-05-26 10:00:03.1101|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 10:00:03 AM
+2021-05-26 10:02:46.0205|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for SBIN - {"BrokerageAndTxn":250.0,"Instrument":"SBIN","BuyPrice":415.3,"Target":416.15000000000003,"StopLoss":411.15000000000003,"OrderTime":"2021-05-26T10:00:00.775691+05:30","SellTime":"2021-05-26T10:02:46.020216+05:30","ExchangeTime":"2021-05-26T10:00:00.773843+05:30","Result":"Profit","GrossProfit":1022.5500000000466,"InstrumentToken":779521,"OrderType":"Long","Qty":1203,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":772.5500000000466,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:00:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:02:46.9609|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for HCLTECH - {"BrokerageAndTxn":250.0,"Instrument":"HCLTECH","BuyPrice":939.0,"Target":940.9000000000001,"StopLoss":929.6,"OrderTime":"2021-05-26T10:00:00.761621+05:30","SellTime":"2021-05-26T10:02:46.960565+05:30","ExchangeTime":"2021-05-26T10:00:00.75948+05:30","Result":"Profit","GrossProfit":1010.8000000000466,"InstrumentToken":1850625,"OrderType":"Long","Qty":532,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":760.8000000000466,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:00:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:15:00.0773|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 10:15:00.0790|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 10:15:00.0808|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 10:15:00.0827|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 10:15:00.0844|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 10:15:00.0861|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 10:15:00.0877|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 10:15:00.0894|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 10:15:00.0913|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 10:15:00.0928|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 10:15:00.0944|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 10:15:00.0960|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 10:15:00.0976|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 10:15:00.0993|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 10:15:00.1010|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 10:15:00.1026|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 10:15:00.1047|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"INDUSINDBK","BuyPrice":1003.2,"Target":1005.2,"StopLoss":993.1500000000001,"OrderTime":"2021-05-26T10:15:00.104372+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:15:00.102696+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":1346049,"OrderType":"Long","Qty":498,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:15:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:15:00.1047|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 10:15:00.1062|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 10:15:00.1079|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 10:15:00.1094|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 10:15:00.1116|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 10:15:00.1131|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 10:15:00.1148|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 10:15:00.1163|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 10:15:00.1179|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 10:15:00.1195|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 10:15:00.1210|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 10:15:00.1225|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 10:15:00.1241|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 10:15:00.1258|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 10:15:00.1273|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 10:15:00.1288|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 10:15:00.1306|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 10:15:00.1321|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 10:15:00.1336|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 10:15:00.1352|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 10:15:00.7187|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 10:15:00.7205|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 10:15:00.7223|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 10:15:00.7283|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 10:15:00.7301|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forONGC
+2021-05-26 10:15:00.7321|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 10:15:00.7375|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 10:15:00.7423|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 10:15:00.7438|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 10:15:00.7530|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 10:15:00.7598|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 10:15:01.2987|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 10:15:01.3042|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 10:15:02.4847|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSHREECEM
+2021-05-26 10:15:03.0585|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 10:15:03 AM
+2021-05-26 10:15:03.1236|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Open 0, Close 26980.05
+2021-05-26 10:15:03.1378|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 10:15:03 AM
+2021-05-26 10:24:00.7171|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for INDUSINDBK - {"BrokerageAndTxn":250.0,"Instrument":"INDUSINDBK","BuyPrice":1003.2,"Target":1005.2,"StopLoss":993.1500000000001,"OrderTime":"2021-05-26T10:15:00.104372+05:30","SellTime":"2021-05-26T10:24:00.716156+05:30","ExchangeTime":"2021-05-26T10:15:00.102696+05:30","Result":"Profit","GrossProfit":996.0,"InstrumentToken":1346049,"OrderType":"Long","Qty":498,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":746.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:15:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:30:00.1168|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 10:30:00.1493|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"WIPRO","BuyPrice":524.0,"Target":525.0500000000001,"StopLoss":518.75,"OrderTime":"2021-05-26T10:30:00.146657+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:30:00.116903+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":969473,"OrderType":"Long","Qty":954,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:30:00.1493|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 10:30:00.1518|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 10:30:00.1791|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 10:30:00.1817|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 10:30:00.1841|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 10:30:00.1865|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 10:30:00.1887|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 10:30:00.1908|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 10:30:00.1929|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 10:30:00.1950|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 10:30:00.1971|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 10:30:00.1992|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 10:30:00.2015|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"TECHM","BuyPrice":1006.0,"Target":1008.0,"StopLoss":995.95,"OrderTime":"2021-05-26T10:30:00.201322+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:30:00.199247+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":3465729,"OrderType":"Long","Qty":497,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:30:00.2015|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 10:30:00.2036|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 10:30:00.2062|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 10:30:00.2083|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 10:30:00.2105|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 10:30:00.2127|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 10:30:00.2148|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 10:30:00.2168|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 10:30:00.2188|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 10:30:00.2208|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 10:30:00.2227|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 10:30:00.2246|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 10:30:00.2266|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 10:30:00.2285|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 10:30:00.2304|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 10:30:00.2323|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 10:30:00.2342|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 10:30:00.2361|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 10:30:00.7046|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 10:30:00.7089|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 10:30:00.7203|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 10:30:00.7224|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 10:30:00.7244|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 10:30:00.7286|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 10:30:00.7386|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 10:30:00.7405|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 10:30:00.7445|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 10:30:00.7522|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 10:30:00.7563|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 10:30:00.7637|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 10:30:00.7674|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 10:30:00.7691|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 10:30:00.7743|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"BAJFINANCE","BuyPrice":5625.0,"Target":5636.25,"StopLoss":5568.75,"OrderTime":"2021-05-26T10:30:00.773997+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:30:00.772423+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":81153,"OrderType":"Long","Qty":88,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:30:00.7743|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 10:30:00.7760|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 10:30:01.3937|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 10:30:04.9431|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 10:30:04 AM
+2021-05-26 10:30:05.0275|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ONGC Open 114.3, Close 0
+2021-05-26 10:30:05.0355|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Open 26980.05, Close 0
+2021-05-26 10:30:05.0511|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 10:30:05 AM
+2021-05-26 10:42:16.3509|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"HDFCLIFE","BuyPrice":665.9,"Target":664.9000000000001,"StopLoss":672.5500000000001,"OrderTime":"2021-05-26T10:42:16.350702+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:42:16.347465+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":119553,"OrderType":"Short","Qty":750,"ConnorsRsi":90.1714327613187679205821024,"Ema200":669.43484308312279579384716537,"NetProfit":-250.0,"OrderStrategy":"ConnorsRsiAndEma200","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:45:00.1094|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forADANIPORTS
+2021-05-26 10:45:00.1376|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forONGC
+2021-05-26 10:45:00.1401|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTCS
+2021-05-26 10:45:00.1447|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSHREECEM
+2021-05-26 10:45:00.1676|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCBANK
+2021-05-26 10:45:00.1699|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forKOTAKBANK
+2021-05-26 10:45:00.1737|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"GRASIM","BuyPrice":1420.85,"Target":1423.7,"StopLoss":1406.65,"OrderTime":"2021-05-26T10:45:00.172109+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:45:00.169969+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":315393,"OrderType":"Long","Qty":351,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:45:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:45:00.1737|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGRASIM
+2021-05-26 10:45:00.1758|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forJSWSTEEL
+2021-05-26 10:45:00.1778|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATAMOTORS
+2021-05-26 10:45:00.1800|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFCLIFE
+2021-05-26 10:45:00.1821|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forITC
+2021-05-26 10:45:00.1842|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHCLTECH
+2021-05-26 10:45:00.1863|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTATASTEEL
+2021-05-26 10:45:00.1884|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJFINSV
+2021-05-26 10:45:00.1906|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCIPLA
+2021-05-26 10:45:00.1927|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forGAIL
+2021-05-26 10:45:00.1951|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forPOWERGRID
+2021-05-26 10:45:00.1972|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forCOALINDIA
+2021-05-26 10:45:00.1995|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDUNILVR
+2021-05-26 10:45:00.2017|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINDUSINDBK
+2021-05-26 10:45:00.2038|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forAXISBANK
+2021-05-26 10:45:00.2061|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBPCL
+2021-05-26 10:45:00.2082|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forUPL
+2021-05-26 10:45:00.2104|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHDFC
+2021-05-26 10:45:00.2132|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forM&M
+2021-05-26 10:45:00.2154|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 10:45:00.2178|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 10:45:00.2202|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 10:45:00.2225|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 10:45:00.2250|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJFINANCE
+2021-05-26 10:45:00.2272|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 10:45:00.2294|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBILIFE
+2021-05-26 10:45:00.2315|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forULTRACEMCO
+2021-05-26 10:45:00.2338|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 10:45:00.2361|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 10:45:00.2383|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forLT
+2021-05-26 10:45:00.2404|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 10:45:00.2424|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBRITANNIA
+2021-05-26 10:45:00.2447|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"ICICIBANK","BuyPrice":651.6,"Target":652.9000000000001,"StopLoss":645.1,"OrderTime":"2021-05-26T10:45:00.244559+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T10:45:00.242493+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":1270529,"OrderType":"Long","Qty":767,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:45:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:45:00.2447|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 10:45:00.2471|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 10:45:00.2493|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 10:45:00.2513|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBHARTIARTL
+2021-05-26 10:45:00.2533|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDIVISLAB
+2021-05-26 10:45:00.2554|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 10:45:00.2575|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 10:45:00.2606|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNTPC
+2021-05-26 10:45:00.2633|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 10:45:00.2657|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 10:45:00.2685|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 10:45:00.2713|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 10:45:03.0858|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 10:45:03 AM
+2021-05-26 10:45:03.1477|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ONGC Open 0, Close 114.55
+2021-05-26 10:45:03.1566|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Open 0, Close 26945
+2021-05-26 10:45:03.1705|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 10:45:03 AM
+2021-05-26 10:46:32.5698|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for HDFCLIFE - {"BrokerageAndTxn":250.0,"Instrument":"HDFCLIFE","BuyPrice":665.9,"Target":664.9000000000001,"StopLoss":672.5500000000001,"OrderTime":"2021-05-26T10:42:16.350702+05:30","SellTime":"2021-05-26T10:46:32.569575+05:30","ExchangeTime":"2021-05-26T10:42:16.347465+05:30","Result":"Profit","GrossProfit":749.9999999999418,"InstrumentToken":119553,"OrderType":"Short","Qty":750,"ConnorsRsi":90.1714327613187679205821024,"Ema200":669.43484308312279579384716537,"NetProfit":499.9999999999418,"OrderStrategy":"ConnorsRsiAndEma200","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:48:49.9337|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for BAJFINANCE - {"BrokerageAndTxn":250.0,"Instrument":"BAJFINANCE","BuyPrice":5625.0,"Target":5636.25,"StopLoss":5568.75,"OrderTime":"2021-05-26T10:30:00.773997+05:30","SellTime":"2021-05-26T10:48:49.933288+05:30","ExchangeTime":"2021-05-26T10:30:00.772423+05:30","Result":"Profit","GrossProfit":990.0,"InstrumentToken":81153,"OrderType":"Long","Qty":88,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":740.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 10:56:25.9625|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for GRASIM - {"BrokerageAndTxn":250.0,"Instrument":"GRASIM","BuyPrice":1420.85,"Target":1423.7,"StopLoss":1406.65,"OrderTime":"2021-05-26T10:45:00.172109+05:30","SellTime":"2021-05-26T10:56:25.962407+05:30","ExchangeTime":"2021-05-26T10:45:00.169969+05:30","Result":"Profit","GrossProfit":1000.3500000000349,"InstrumentToken":315393,"OrderType":"Long","Qty":351,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":750.3500000000349,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:45:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 11:00:00.6510|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHEROMOTOCO
+2021-05-26 11:00:00.6748|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forRELIANCE
+2021-05-26 11:00:00.6773|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forHINDALCO
+2021-05-26 11:00:00.6796|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forNESTLEIND
+2021-05-26 11:00:00.6817|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTECHM
+2021-05-26 11:00:00.6841|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forINFY
+2021-05-26 11:00:00.6863|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forMARUTI
+2021-05-26 11:00:00.6885|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forICICIBANK
+2021-05-26 11:00:00.6906|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forTITAN
+2021-05-26 11:00:00.6928|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSBIN
+2021-05-26 11:00:00.6948|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forWIPRO
+2021-05-26 11:00:00.6969|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forBAJAJ-AUTO
+2021-05-26 11:00:00.6989|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forDRREDDY
+2021-05-26 11:00:00.7010|INFO|ExAlgo.Core.Order.OrderProcessor|Recieved order for {"BrokerageAndTxn":250.0,"Instrument":"EICHERMOT","BuyPrice":2631.0,"Target":2625.75,"StopLoss":2657.3,"OrderTime":"2021-05-26T11:00:00.700948+05:30","SellTime":"0001-01-01T00:00:00","ExchangeTime":"2021-05-26T11:00:00.698968+05:30","Result":"NA","GrossProfit":0.0,"InstrumentToken":232961,"OrderType":"Short","Qty":190,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":-250.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T11:00:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 11:00:00.7010|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forEICHERMOT
+2021-05-26 11:00:00.7029|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forIOC
+2021-05-26 11:00:00.7048|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forSUNPHARMA
+2021-05-26 11:00:00.7067|INFO|ExAlgo.Core.Strategy.OpenQuoteUpdater|Recieved Opening tick forASIANPAINT
+2021-05-26 11:00:03.6566|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load started  at  5/26/2021 11:00:03 AM
+2021-05-26 11:00:03.6566|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ADANIPORTS Open 763.5, Close 0
+2021-05-26 11:00:03.7088|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|AXISBANK Open 738.1, Close 0
+2021-05-26 11:00:03.7125|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJAJFINSV Open 11521.2, Close 0
+2021-05-26 11:00:03.7143|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BAJFINANCE Open 5627.75, Close 0
+2021-05-26 11:00:03.7161|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BHARTIARTL Open 529.9, Close 0
+2021-05-26 11:00:03.7179|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BPCL Open 477.5, Close 0
+2021-05-26 11:00:03.7197|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|BRITANNIA Open 3429.2, Close 0
+2021-05-26 11:00:03.7215|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|CIPLA Open 947, Close 0
+2021-05-26 11:00:03.7233|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|COALINDIA Open 147.6, Close 0
+2021-05-26 11:00:03.7250|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|DIVISLAB Open 4105, Close 0
+2021-05-26 11:00:03.7304|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|GAIL Open 154, Close 0
+2021-05-26 11:00:03.7322|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|GRASIM Open 1420.85, Close 0
+2021-05-26 11:00:03.7339|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HCLTECH Open 942, Close 0
+2021-05-26 11:00:03.7357|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFC Open 2554.5, Close 0
+2021-05-26 11:00:03.7374|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFCBANK Open 1478.3, Close 0
+2021-05-26 11:00:03.7391|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HDFCLIFE Open 665.6, Close 0
+2021-05-26 11:00:03.7440|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|HINDUNILVR Open 2351.1, Close 0
+2021-05-26 11:00:03.7477|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|INDUSINDBK Open 1006, Close 0
+2021-05-26 11:00:03.7525|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ITC Open 212.1, Close 0
+2021-05-26 11:00:03.7541|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|JSWSTEEL Open 684.75, Close 0
+2021-05-26 11:00:03.7558|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|KOTAKBANK Open 1750.6, Close 0
+2021-05-26 11:00:03.7574|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|LT Open 1460, Close 0
+2021-05-26 11:00:03.7590|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|M&M Open 813.95, Close 0
+2021-05-26 11:00:03.7637|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|NTPC Open 113.25, Close 0
+2021-05-26 11:00:03.7652|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ONGC Open 114.55, Close 0
+2021-05-26 11:00:03.7669|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|POWERGRID Open 228.2, Close 0
+2021-05-26 11:00:03.7699|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SBILIFE Open 976.1, Close 0
+2021-05-26 11:00:03.7730|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|SHREECEM Open 26945, Close 0
+2021-05-26 11:00:03.7758|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TATAMOTORS Open 318.65, Close 0
+2021-05-26 11:00:03.7771|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TATASTEEL Open 1086, Close 0
+2021-05-26 11:00:03.7789|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|TCS Open 3134.75, Close 0
+2021-05-26 11:00:03.7829|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|ULTRACEMCO Open 6570, Close 0
+2021-05-26 11:00:03.7842|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|UPL Open 808.8, Close 0
+2021-05-26 11:00:03.7868|INFO|ExAlgo.Core.Cache.QuoteRepositoryManager|Current Data Load Closed  at  5/26/2021 11:00:03 AM
+2021-05-26 11:00:20.5776|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for ICICIBANK - {"BrokerageAndTxn":250.0,"Instrument":"ICICIBANK","BuyPrice":651.6,"Target":652.9000000000001,"StopLoss":645.1,"OrderTime":"2021-05-26T10:45:00.244559+05:30","SellTime":"2021-05-26T11:00:20.577497+05:30","ExchangeTime":"2021-05-26T10:45:00.242493+05:30","Result":"Profit","GrossProfit":997.1000000000349,"InstrumentToken":1270529,"OrderType":"Long","Qty":767,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":747.1000000000349,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:45:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}
+2021-05-26 11:00:35.5893|INFO|ExAlgo.Core.Order.OrderProcessor|Order executed for TECHM - {"BrokerageAndTxn":250.0,"Instrument":"TECHM","BuyPrice":1006.0,"Target":1008.0,"StopLoss":995.95,"OrderTime":"2021-05-26T10:30:00.201322+05:30","SellTime":"2021-05-26T11:00:35.589091+05:30","ExchangeTime":"2021-05-26T10:30:00.199247+05:30","Result":"Profit","GrossProfit":994.0,"InstrumentToken":3465729,"OrderType":"Long","Qty":497,"ConnorsRsi":0.0,"Ema200":0.0,"NetProfit":744.0,"OrderStrategy":"BullishAndBearisEngulfing","RevicedStopLoss":{},"PullDownTime":"2021-05-26T10:30:00","OrderId":null,"TrailingORderId":null,"ZerodaTradeOrderType":2,"OrderVariety":0}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExAlgo.Core.Zerodha\ExAlgo.Core.Zerodha.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Contracts\ExAlgo.Core.Contracts.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Strategy\ExAlgo.Core.Strategy.csproj" />
+    <ProjectReference Include="..\ExAlgo.Core.Order\ExAlgo.Core.Order.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Tech.Zerodha.KiteConnect" Version="3.0.7" />
+  </ItemGroup>
+</Project>
